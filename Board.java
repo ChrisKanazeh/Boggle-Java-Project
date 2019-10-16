@@ -1,8 +1,6 @@
 /*
 Christopher Kanazeh
 Boggle Project
-Professor Whiting
-COP 3330
  */
 //package
 package core;
