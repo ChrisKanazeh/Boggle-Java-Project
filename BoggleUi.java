@@ -21,7 +21,7 @@ import javax.swing.*;
 
 /**
  *
- * @author kwhiting
+ * @author CKanazeh
  */
 public class BoggleUi 
 {
