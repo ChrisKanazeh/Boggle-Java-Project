@@ -1,7 +1,6 @@
 /*
 Christopher Kanazeh
-Boggle Project Assignment 1
-6/19/2015
+Boggle Project
 Professor Whiting
 COP 3330
  */
